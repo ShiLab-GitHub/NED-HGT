@@ -8,7 +8,7 @@
 
 
 ## Dataset
-All data used in this paper are publicly available on [Molecule-Net](http://moleculenet.org/datasets-1).
+The data used in this paper (esol/lipo/freesolv) are publicly available on [Molecule-Net](http://moleculenet.org/datasets-1).
 
 ## Environment
 * base dependencies:
