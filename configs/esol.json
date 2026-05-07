@@ -1,8 +1,8 @@
 {
 	"data": {
-		"path": "data_index/esol",
+		"path": "data/esol",
 		"task": "regression",
-		"target_names": ["logSolubility"],
+		"target_names": ["measured log solubility in mols per litre"],
 		"batch_size": 64
 	},
 	"train": {
@@ -27,5 +27,5 @@
 		"act": "ReLU",
 		"num_task": 1
 	},
-	"seed": 2022
+	"seed": 2026
 }

@@ -1,6 +1,6 @@
 {
 	"data": {
-		"path": "data_index/freesolv",
+		"path": "data/freesolv",
 		"task": "regression",
 		"target_names": ["expt"],
 		"batch_size": 64
@@ -14,7 +14,7 @@
 		"final_lr": 1e-05,
 		"epochs": 50,
 		"num_fold": 10,
-		"save_path": "./ckpt/esol",
+		"save_path": "./ckpt/freesolv",
 		"device": "cuda:0"
 	},
 	"model": {
@@ -27,5 +27,5 @@
 		"act": "ReLU",
 		"num_task": 1
 	},
-	"seed": 2022
+	"seed": 2026
 }
