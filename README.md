@@ -31,4 +31,11 @@ For Lipo:
 ```bash
 python train.py configs/lipo.json
 ```
-
+For AqSolDB:
+```bash
+python train.py configs/AqSolDB.json
+```
+For CASR-1:
+```bash
+python train.py configs/casr-1.json
+```
