@@ -1,6 +1,6 @@
 
 ## Introduction
-* Source code for the paper "Predicting molecular solubility with heterogeneous graph transformer network".
+* Source code for the paper "NED-HGT: A Node-Edge Decoupled Heterogeneous Graph Transformer for Accurate Solubility Prediction".
 
 * we propose a message-passing-based heterogeneous graph neural network to predict the solubility properties of drug molecules. With a carefully designed multi-view heterogeneous graph, this model can learn more chemical information and structural information from molecules. 
 
