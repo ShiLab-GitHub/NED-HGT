@@ -30,27 +30,27 @@ AqSolDB and CASR-1 datasets are also included in the data directory.
 
 For ESOL:
 ```bash
-python train.py configs_new/scaffold/esol_scaffold.json
+python train.py configs/scaffold/esol_scaffold.json
 ```
 
 For FreeSolv:
 ```bash
-python train.py configs_new/scaffold/freesolv_scaffold.json
+python train.py configs/scaffold/freesolv_scaffold.json
 ```
 
 For Lipophilicity:
 ```bash
-python train.py configs_new/scaffold/lipo_scaffold.json
+python train.py configs/scaffold/lipo_scaffold.json
 ```
 
 For AqSolDB:
 ```bash
-python train.py configs_new/scaffold/AqSolDB_scaffold.json
+python train.py configs/scaffold/AqSolDB_scaffold.json
 ```
 
 For CASR-1:
 ```bash
-python train.py configs_new/scaffold/casr-1_scaffold.json
+python train.py configs/scaffold/casr-1_scaffold.json
 ```
 
 ## Configuration
