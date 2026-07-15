@@ -1,0 +1,99 @@
+Compound ID,ESOL predicted log solubility in mols per litre,Minimum Degree,Molecular Weight,Number of H-Bond Donors,Number of Rings,Number of Rotatable Bonds,Polar Surface Area,measured log solubility in mols per litre,smiles
+"2,2,4,6,6'-PCB",-6.545,1,326.437,0,2,1,0.0,-7.32,Clc1cc(Cl)c(c(Cl)c1)c2c(Cl)cccc2Cl
+"2,2',3,4,6-PCB",-6.627000000000001,1,326.437,0,2,1,0.0,-7.43,Clc1ccc(c(Cl)c1)c2c(Cl)ccc(Cl)c2Cl 
+Phorate,-3.747,1,260.386,0,0,8,18.46,-4.11,CCOP(=S)(OCC)SCSCC
+Methyl octanoate,-2.608,1,158.241,0,0,6,26.3,-3.17,CCCCCCCC(=O)OC
+1-Iodoheptane,-3.904,1,226.101,0,0,5,0.0,-4.81,CCCCCCCI
+3-Chlorobiphenyl,-4.685,1,188.657,0,2,1,0.0,-4.88,c1c(Cl)cccc1c2ccccc2
+1-Octyne ,-2.509,1,110.2,0,0,4,0.0,-3.66,CCCCCCC#C
+"2,2',3,3',5,6-PCB",-7.185,1,360.88200000000006,0,2,1,0.0,-8.6,Clc1cccc(c1Cl)c2c(Cl)c(Cl)cc(Cl)c2Cl 
+"2,2',3,3',5,5',6,6'-PCB",-8.304,1,429.77200000000016,0,2,1,0.0,-9.15,Clc1cc(Cl)c(Cl)c(c1Cl)c2c(Cl)c(Cl)cc(Cl)c2Cl 
+"2,2'-PCB",-4.984,1,223.102,0,2,1,0.0,-5.27,Clc1ccccc1c2ccccc2Cl 
+"2,3',5-PCB",-5.7620000000000005,1,257.547,0,2,1,0.0,-6.01,Clc1cccc(c1)c2cc(Cl)ccc2Cl 
+1-Bromopropane,-1.949,1,122.993,0,0,1,0.0,-1.73,CCCBr
+Formothion,-2.087,1,257.273,0,0,6,55.84,-1.995,COP(=S)(OC)SCC(=O)N(C)C=O
+Propylisopropylether,-1.354,1,102.17699999999998,0,0,3,9.23,-1.34,CCCOC(C)C
+"2,3',4',5-PCB",-6.312,1,291.992,0,2,1,0.0,-7.25,Clc1ccc(Cl)c(c1)c2ccc(Cl)c(Cl)c2
+2-Chlorobiphenyl,-4.5280000000000005,1,188.657,0,2,1,0.0,-4.54,Clc1ccccc1c2ccccc2
+1-Decene,-3.781,1,140.26999999999998,0,0,7,0.0,-5.51,CCCCCCCCC=C
+trans-2-Pentene ,-2.076,1,70.135,0,0,1,0.0,-2.54,CC/C=C/C
+"2,4'-PCB",-5.142,1,223.102,0,2,1,0.0,-5.28,Clc1ccc(cc1)c2ccccc2Cl 
+Glutethimide,-2.591,1,217.268,1,2,2,46.17,-2.337,CCC1(CCC(=O)NC1=O)c2ccccc2 
+Chloroacetonitrile,-0.4479999999999999,1,75.498,0,0,0,23.79,-0.092,ClCC#N
+Pyridazine,-0.619,2,80.08999999999999,0,1,0,25.78,1.1,c1ccnnc1
+2-Chlorobutane,-1.94,1,92.569,0,0,1,0.0,-1.96,CCC(C)Cl
+Hypoxanthine,-0.6559999999999999,1,136.114,2,2,0,74.43,-2.296,O=c1[nH]cnc2nc[nH]c12 
+"2,2-Dimethylpentane",-2.938,1,100.20499999999998,0,0,1,0.0,-4.36,CCCC(C)(C)C
+"4,4'-PCB",-5.299,1,223.102,0,2,1,0.0,-6.56,Clc1ccc(cc1)c2ccc(Cl)cc2 
+nevirapine,-3.397,1,266.30400000000003,1,4,1,58.120000000000005,-3.19,Cc3ccnc4N(C1CC1)c2ncccc2C(=O)Nc34 
+4-Methylbiphenyl,-4.424,1,168.239,0,2,1,0.0,-4.62,Cc1ccc(cc1)c2ccccc2
+4-Methyl-2-pentanone,-1.1840000000000002,1,100.161,0,0,2,17.07,-0.74,CC(C)CC(=O)C
+Chlorimuron-ethyl (ph 7),-3.719,1,414.82700000000017,1,2,8,127.79,-4.5760000000000005,CCOC(=O)c1ccccc1S(=O)(=O)NN(C=O)c2nc(Cl)cc(OC)n2
+"2,2',3,3',4,4',5,5'-PCB",-8.468,1,429.77200000000016,0,2,1,0.0,-9.16,Clc1cc(c(Cl)c(Cl)c1Cl)c2cc(Cl)c(Cl)c(Cl)c2Cl
+Tetrachloromethane,-2.607,1,153.823,0,0,0,0.0,-2.31,ClC(Cl)(Cl)Cl
+"2,2',3,4,5-PCB",-6.709,1,326.437,0,2,1,0.0,-7.21,Clc1cc(Cl)c(cc1Cl)c2cccc(Cl)c2Cl 
+"2',3,4-PCB",-5.686,1,257.547,0,2,1,0.0,-6.29,Clc1ccc(cc1)c2cccc(Cl)c2Cl 
+Azintamide,-2.231,1,259.762,0,1,5,46.09,-1.716,CCN(CC)C(=O)CSc1ccc(Cl)nn1
+Dibenzofurane,-4.2010000000000005,2,168.195,0,3,0,13.14,-4.6,o1c2ccccc2c3ccccc13
+2-Propanol,-0.261,1,60.096,1,0,0,20.23,0.43,CC(C)O
+Ethyl hexanoate,-2.254,1,144.21399999999997,0,0,5,26.3,-2.35,CCCCCC(=O)OCC
+3-Hexanol,-1.324,1,102.177,1,0,3,20.23,-0.8,CCCC(O)CC
+"3,4-PCB",-5.223,1,223.102,0,2,1,0.0,-6.39,Clc1ccc(cc1Cl)c2ccccc2 
+acetazolamide,-0.7929999999999999,1,222.251,2,1,2,115.04,-2.36,CC(=O)Nc1nnc(s1)S(N)(=O)=O 
+Aldrin,-5.511,1,364.914,0,4,0,0.0,-6.307,ClC1=C(Cl)C2(Cl)C3C4CC(C=C4)C3C1(Cl)C2(Cl)Cl
+"2,2',3,3'-PCB",-6.079,1,291.992,0,2,1,0.0,-7.28,Clc1cccc(c1Cl)c2cccc(Cl)c2Cl
+captafol,-4.365,1,349.06600000000014,0,2,3,37.38,-5.4,ClC(Cl)C(Cl)(Cl)SN2C(=O)C1CC=CCC1C2=O 
+Disulfiram,-3.862,1,296.5520000000001,0,0,4,6.48,-4.86,CCN(CC)C(=S)SSC(=S)N(CC)CC
+2-Chloro-2-methylbutane,-2.278,1,106.596,0,0,1,0.0,-2.51,CCC(C)(C)Cl
+Minoxidil,-1.809,1,209.253,2,2,1,95.11,-1.989,Nc1cc(nc(N)n1=O)N2CCCCC2 
+p-Phenylphenol,-3.701,1,170.211,1,2,1,20.23,-3.48,Oc1ccc(cc1)c2ccccc2
+pyracarbolid,-2.83,1,217.26800000000003,1,2,2,38.33,-2.56,CC1=C(CCCO1)C(=O)Nc2ccccc2 
+"2,2',4,5'-PCB",-6.23,1,291.992,0,2,1,0.0,-6.57,Clc1ccc(c(Cl)c1)c2cc(Cl)ccc2Cl 
+1-Iodobutane,-2.841,1,184.02,0,0,2,0.0,-2.96,CCCCI
+"2,3',4,4'-PCB",-6.709,1,326.437,0,2,1,0.0,-7.8,Clc1ccc(c(Cl)c1)c2ccc(Cl)c(Cl)c2Cl 
+"2,2',3,3',4,4'-PCB",-7.192,1,360.88200000000006,0,2,1,0.0,-8.01,Clc1ccc(c(Cl)c1Cl)c2ccc(Cl)c(Cl)c2Cl 
+p-benzidine,-2.613,1,184.242,2,2,1,52.04,-2.7,Nc1ccc(cc1)c2ccc(N)cc2
+"2,3,4,5,6-PCB",-6.785,1,326.437,0,2,1,0.0,-7.92,Clc2c(Cl)c(Cl)c(c1ccccc1)c(Cl)c2Cl 
+"2,2',3,3',4,4',5,5',6,6'-PCB",-9.589,1,498.66200000000026,0,2,1,0.0,-11.6,Clc1c(Cl)c(Cl)c(c(Cl)c1Cl)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl 
+Acetamide,0.494,1,59.068,1,0,0,43.09,1.58,CC(=O)N
+"1,2-Propylene oxide",-0.358,1,58.08,0,1,0,12.53,-0.59,CC1CO1
+Clomazone,-3.077,1,239.702,0,2,2,29.54,-2.338,CC1(C)CON(Cc2ccccc2Cl)C1=O
+fluconazole,-2.418,1,306.276,1,3,5,81.64999999999999,-1.8,OC(Cn1cncn1)(Cn2cncn2)c3ccc(F)cc3F 
+"2,2',3,4,4',5',6-PCB",-7.898,1,395.3270000000001,0,2,1,0.0,-7.92,Clc1ccc(c(Cl)c1)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl
+"2,2',3,4,5,5'-PCB",-7.343,1,360.88200000000006,0,2,1,0.0,-7.68,Clc1ccc(Cl)c(c1)c2cc(Cl)c(Cl)c(Cl)c2Cl
+Propionitrile,-0.2689999999999999,1,55.07999999999999,0,0,0,23.79,0.28,CCC#N
+"N,N-Dimethylacetamide",0.123,1,87.12199999999999,0,0,0,20.31,1.11,CN(C)C(=O)C
+Norea,-2.47,1,222.33199999999997,1,3,1,32.34,-3.1710000000000003,CN(C)C(=O)NC1CC2CC1C3CCCC23
+"2,2',3,5'-PCB",-6.155,1,291.9920000000001,0,2,1,0.0,-6.47,Clc1ccc(Cl)c(c1)c2cccc(Cl)c2Cl 
+alloxantin,0.919,1,286.156,6,2,1,191.0,-1.99,C1(=O)NC(=O)NC(=O)C1(O)C2(O)C(=O)NC(=O)NC2(=O)
+Trimazosin,-3.958,1,435.48100000000034,2,3,6,132.5,-3.638,COc2cc1c(N)nc(nc1c(OC)c2OC)N3CCN(CC3)C(=O)OCC(C)(C)O 
+DEF,-4.074,1,314.5220000000001,0,0,12,17.07,-5.14,CCCCSP(=O)(SCCCC)SCCCC
+1-Octadecanol,-5.649,1,270.50099999999986,1,0,16,20.23,-8.4,CCCCCCCCCCCCCCCCCCO
+Isopentyl formate,-1.449,1,116.15999999999998,0,0,4,26.3,-1.52,CC(C)CCOC=O
+"2,2',3,5,5',6-PCB",-7.261,1,360.88200000000006,0,2,1,0.0,-7.42,Clc1ccc(Cl)c(c1)c2c(Cl)c(Cl)cc(Cl)c2Cl 
+allicin,-2.045,1,162.27899999999997,0,0,5,17.07,-0.83,C=CCS(=O)SCC=C
+"2,3,3',4,4',5-PCB",-7.425,1,360.88200000000006,0,2,1,0.0,-7.82,Clc1ccc(cc1Cl)c2cc(Cl)c(Cl)c(Cl)c2Cl 
+Biphenyl,-4.079,2,154.21199999999996,0,2,1,0.0,-4.345,c1ccc(cc1)c2ccccc2
+"2,2',4,4',6,6'-PCB",-7.178999999999999,1,360.88200000000006,0,2,1,0.0,-8.71,Clc1cc(Cl)c(c(Cl)c1)c2c(Cl)cc(Cl)cc2Cl 
+"2,2',3,4,5,5',6-PCB",-7.898,1,395.3270000000001,0,2,1,0.0,-8.94,Clc1ccc(Cl)c(c1)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl
+Flumetralin,-6.584,1,421.7340000000001,0,2,6,89.51999999999998,-6.78,CCN(Cc1c(F)cccc1Cl)c2c(cc(cc2N(=O)=O)C(F)(F)F)N(=O)=O
+"2,4',5-PCB",-5.7620000000000005,1,257.547,0,2,1,0.0,-6.25,Clc1ccc(cc1)c2cc(Cl)ccc2Cl 
+"2,3',4,4',5-PCB",-7.343,1,360.88200000000006,0,2,1,0.0,-7.39,Clc1ccc(c(Cl)c1)c2cc(Cl)c(Cl)c(Cl)c2Cl 
+"2,6-PCB",-4.984,1,223.102,0,2,1,0.0,-5.21,Clc1cccc(Cl)c1c2ccccc2 
+Methyl acetate,-0.416,1,74.07900000000001,0,0,0,26.3,0.46,COC(=O)C
+bromadiolone,-7.877000000000001,1,527.4140000000002,2,5,6,70.67,-4.445,OC(CC(c1ccccc1)c3c(O)c2ccccc2oc3=O)c4ccc(cc4)c5ccc(Br)cc5 
+Mebendazole,-4.118,1,295.298,2,3,3,84.07999999999998,-3.88,COC(=O)Nc2nc1ccc(cc1[nH]2)C(=O)c3ccccc3
+Ethyne,-0.252,1,26.038,0,0,0,0.0,0.29,C#C
+Mecarbam,-3.738,1,329.3800000000001,0,0,8,65.07000000000001,-2.518,CCOC(=O)N(C)C(=O)CSP(=S)(OCC)OCC
+"2,4,6-PCB",-5.604,1,257.547,0,2,1,0.0,-6.14,Clc1ccc(cc1)c2c(Cl)cccc2Cl 
+"2,2',6,6'-PCB",-5.915,1,291.992,0,2,1,0.0,-7.39,Clc1cccc(Cl)c1c2c(Cl)cccc2Cl 
+3-Methyl-2-butanone,-0.912,1,86.13399999999999,0,0,1,17.07,-0.12,CC(C)C(=O)C
+2-Hexanone,-1.2,1,100.161,0,0,3,17.07,-0.8,CCCCC(=O)C
+Benzo(a)fluorene,-5.189,2,216.283,0,4,0,0.0,-6.68,C1c2ccccc2c3ccc4ccccc4c13
+"2,2',4,4',5,5'-PCB",-7.343,1,360.88200000000006,0,2,1,0.0,-8.56,Clc1cc(Cl)c(cc1Cl)c2cc(Cl)c(Cl)cc2Cl 
+2-Ethyl-1-hexanol,-2.089,1,130.231,1,0,5,20.23,-2.11,CCCCC(CC)CO
+Griseofulvin,-3.3280000000000003,1,352.7700000000001,0,3,3,71.06,-3.2460000000000004,COC1=CC(=O)CC(C)C13Oc2c(Cl)c(OC)cc(OC)c2C3=O
+Piperine,-3.659,1,285.343,0,3,3,38.77,-3.46,O=C(C=CC=Cc2ccc1OCOc1c2)N3CCCCC3
+"cis 1,2-Dichloroethylene",-1.561,1,96.94400000000002,0,0,0,0.0,-1.3,Cl\C=C/Cl
+Triadimefon,-4.132,1,293.754,0,2,4,57.010000000000005,-3.61,CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n2cncn2
+"2,3,3',4,4'6-PCB",-7.746,1,395.3270000000001,0,2,1,0.0,-7.66,Clc1ccc(c(Cl)c1Cl)c2c(Cl)cc(Cl)c(Cl)c2Cl 
