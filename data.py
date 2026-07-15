@@ -295,6 +295,7 @@ class MolGraphSet(Dataset):
         self.labels = []
         self.graphs = []
         self.graphFeatures = []
+        self.smiles_list = []
         for i,row in df.iterrows():
             smi = row['smiles']
             label = row[target].values.astype(float)
@@ -304,21 +305,22 @@ class MolGraphSet(Dataset):
                     log('invalid',smi)
                 else:
                     g = Mol2HeteroGraph(mol)
-                    if g.num_nodes('a') == 0:
-                        log('no edge in graph',smi)
+                    if g.num_nodes('a') == 0 or g.num_nodes('p') == 0:
+                        log('no nodes in graph',smi)
                     else:
                         self.mols.append(mol)
                         self.graphs.append(g)
                         self.labels.append(label)
                         self.graphFeatures.append(getGraphFeature(smi))
+                        self.smiles_list.append(smi)
             except Exception as e:
                 log(e,'invalid',smi)
-                
+
     def __len__(self):
         return len(self.mols)
-    
+
     def __getitem__(self,idx):
-        
+
         return self.graphs[idx],self.labels[idx],self.graphFeatures[idx]
     
 def create_dataloader(args,filename,shuffle=True,train=True):
@@ -354,5 +356,5 @@ def random_split(load_path,save_dir,num_fold=5,sizes = [0.7,0.1,0.2],seed=0):
 
 
 if __name__=='__main__':
-    for seed in [2022]:
-        random_split('data_index/esol.csv','data_index/esol/',seed=seed)
+    for seed in [2026]:
+        random_split('data/esol.csv','data/esol/',seed=seed)
