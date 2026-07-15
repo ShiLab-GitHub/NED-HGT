@@ -1,0 +1,56 @@
+iupac,smiles,expt,calc
+3-methylbut-1-ene,CC(C)C=C,1.83,2.452
+2-ethylpyridine,CCc1ccccn1,-4.33,-3.31
+N-methylacetamide,CC(=O)NC,-10.0,-8.276
+2-methylbutan-1-ol,CC[C@@H](C)CO,-4.42,-2.995
+2-methylpyridine,Cc1ccccn1,-4.63,-3.501
+"9,10-dihydroanthracene",c1ccc2c(c1)Cc3ccccc3C2,-3.78,-4.304
+"1,1-dichloroethane",CC(Cl)Cl,-0.84,0.187
+n-butane,CCCC,2.1,2.588
+nitromethane,C[N+](=O)[O-],-4.02,-2.075
+hexan-3-ol,CCC[C@H](CC)O,-4.06,-2.585
+ethyl hexanoate,CCCCCC(=O)OCC,-2.23,-2.929
+caffeine,Cn1cnc2c1c(=O)n(c(=O)n2C)C,-12.64,-17.621
+2-chloro-2-methyl-propane,CC(C)(C)Cl,1.09,0.826
+"2,4-dimethylpyridine",Cc1ccnc(c1)C,-4.86,-3.282
+"3,4-dimethylpyridine",Cc1ccncc1C,-5.22,-3.201
+2-chloropyridine,c1ccnc(c1)Cl,-4.39,-3.873
+"2,3-dimethylbuta-1,3-diene",CC(=C)C(=C)C,0.4,1.862
+hex-1-ene,CCCCC=C,1.58,2.628
+ethyl acetate,CCOC(=O)C,-2.94,-3.745
+4-ethylpyridine,CCc1ccncc1,-4.73,-3.19
+N-isopropylpropan-2-amine,CC(C)NC(C)C,-3.22,-1.985
+heptan-1-amine,CCCCCCCN,-3.79,-2.554
+propane,CCC,2.0,2.495
+chlorpyrifos,CCOP(=S)(OCC)Oc1c(cc(c(n1)Cl)Cl)Cl,-5.04,-9.625
+1-iodopentane,CCCCCI,-0.14,-0.111
+1-(3-pyridyl)ethanone,CC(=O)c1cccnc1,-8.26,-7.844
+nonanal,CCCCCCCCC=O,-2.07,-2.336
+pyridine,c1ccncc1,-4.69,-3.508
+"1,2-diethoxyethane",CCOCCOCC,-3.54,-3.42
+"3,3-dimethylpentane",CCC(C)(C)CC,2.56,2.593
+"2,6-dimethylpyridine",Cc1cccc(n1)C,-4.59,-3.443
+"2,2-dichloro-1,1-difluoro-1-methoxy-ethane",COC(C(Cl)Cl)(F)F,-1.12,-0.685
+pyridine-3-carbaldehyde,c1cc(cnc1)C=O,-7.1,-7.425
+pyridine-3-carbonitrile,c1cc(cnc1)C#N,-6.75,-5.582
+[2-benzhydryloxyethyl]-dimethyl-amine,CN(C)CCOC(c1ccccc1)c2ccccc2,-9.34,-7.873
+pyridine-4-carbaldehyde,c1cnccc1C=O,-7.0,-7.338
+3-chloropyridine,c1cc(cnc1)Cl,-4.01,-2.767
+methylsulfinylmethane,CS(=O)C,-9.28,-8.243
+4-methylpyridine,Cc1ccncc1,-4.93,-3.343
+3-methylpyridine,Cc1cccnc1,-4.77,-3.221
+1-bromoheptane,CCCCCCCBr,0.34,1.223
+propyl butanoate,CCCC(=O)OCCC,-2.28,-2.754
+propyl acetate,CCCOC(=O)C,-2.79,-3.486
+hex-1-yne,CCCCC#C,0.29,0.553
+"2,3-dimethylpyridine",Cc1cccnc1C,-4.82,-3.367
+pyridine-4-carbonitrile,c1cnccc1C#N,-6.02,-5.765
+1-(4-pyridyl)ethanone,CC(=O)c1ccncc1,-7.62,-7.566
+"2,5-dimethylpyridine",Cc1ccc(nc1)C,-4.72,-3.165
+"1,2-dimethoxyethane",COCCOC,-4.84,-3.103
+isopentyl acetate,CC(C)CCOC(=O)C,-2.21,-3.067
+3-ethylpyridine,CCc1cccnc1,-4.59,-2.965
+"3,5-dimethylpyridine",Cc1cc(cnc1)C,-4.84,-2.869
+3-methylheptane,CCCC[C@@H](C)CC,2.97,3.03
+pebulate,CCCCN(CC)C(=O)SCCC,-3.64,-4.573
+methanamine,CN,-4.55,-3.583

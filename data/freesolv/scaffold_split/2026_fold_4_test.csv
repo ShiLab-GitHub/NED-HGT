@@ -1,0 +1,56 @@
+iupac,smiles,expt,calc
+butan-2-ol,CC[C@H](C)O,-4.62,-3.145
+"(2Z)-3,7-dimethylocta-2,6-dien-1-ol",CC(=CCC/C(=C\CO)/C)C,-4.78,-2.597
+ethion,CCOP(=S)(OCC)SCSP(=S)(OCC)OCC,-6.1,-10.644
+"2-(2,3-dimethylphenyl)aminobenzoic acid",Cc1cccc(c1C)Nc2ccccc2C(=O)O,-6.78,-7.665
+decan-1-ol,CCCCCCCCCCO,-3.64,-2.446
+"2,3-dichlorodibenzo-p-dioxin",c1ccc2c(c1)Oc3cc(c(cc3O2)Cl)Cl,-3.56,-3.59
+"1,2,3,7-tetrachlorodibenzo-p-dioxin",c1cc2c(cc1Cl)Oc3cc(c(c(c3O2)Cl)Cl)Cl,-3.84,-2.66
+diiodomethane,C(I)I,-2.49,-1.882
+"2-chloro-1,1,1-trimethoxy-ethane",COC(CCl)(OC)OC,-4.59,-3.638
+N-methylmethanamine,CNC,-4.29,-2.991
+"1,1,2,3,3,3-hexafluoroprop-1-ene",C(=C(F)F)(C(F)(F)F)F,2.93,2.305
+2-chlorodibenzo-p-dioxin,c1ccc2c(c1)Oc3ccc(cc3O2)Cl,-3.1,-4.054
+"1,2,3,4,7-pentachlorodibenzo-p-dioxin",c1cc2c(cc1Cl)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2,-4.15,-2.31
+formaldehyde,C=O,-2.75,-3.155
+"1,1,1-trimethoxyethane",CC(OC)(OC)OC,-4.42,-3.7
+"1,2,3,4,6,7,8,9-octachlorodibenzo-p-dioxin",c12c(c(c(c(c1Cl)Cl)Cl)Cl)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2,-4.53,-1.147
+isopropyl acetate,CC(C)OC(=O)C,-2.64,-3.371
+"1,2,4-trichlorodibenzo-p-dioxin",c1ccc2c(c1)Oc3c(cc(c(c3O2)Cl)Cl)Cl,-4.05,-3.16
+hydrogen sulfide,S,-0.7,-1.135
+pentan-3-one,CCC(=O)CC,-3.41,-3.05
+"2,7-dichlorodibenzo-p-dioxin",c1cc2c(cc1Cl)Oc3ccc(cc3O2)Cl,-3.67,-3.321
+1-iodohexane,CCCCCCI,0.08,0.043
+isohexane,CCCC(C)C,2.51,2.808
+"(1R)-2,2,2-trichloro-1-dimethoxyphosphoryl-ethanol",COP(=O)([C@H](C(Cl)(Cl)Cl)O)OC,-12.74,-13.424
+"1,2,3,4-tetrachlorodibenzo-p-dioxin",c1ccc2c(c1)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2,-3.81,-2.775
+1-bromo-2-chloro-ethane,C(CBr)Cl,-1.95,-0.8
+iodoethane,CCI,-0.74,-0.609
+2-bromopropane,CC(C)Br,-0.48,0.448
+dibenzo-p-dioxin,c1ccc2c(c1)Oc3ccccc3O2,-3.15,-4.9
+"1,1-diphenylethene",C=C(c1ccccc1)c2ccccc2,-2.78,-2.47
+1-bromohexane,CCCCCCBr,0.18,1.076
+1-chlorodibenzo-p-dioxin,c1ccc2c(c1)Oc3cccc(c3O2)Cl,-3.52,-4.473
+ketoprofen,C[C@@H](c1cccc(c1)C(=O)c2ccccc2)C(=O)O,-10.78,-17.242
+2-methylpent-1-ene,CCCC(=C)C,1.47,2.486
+dialifor,CCOP(=S)(OCC)S[C@@H](CCl)N1C(=O)c2ccccc2C1=O,-5.74,-16.515
+3-methylpentane,CCC(C)CC,2.51,2.613
+"2,3,7,8-tetrachlorodibenzo-p-dioxin",c1c2c(cc(c1Cl)Cl)Oc3cc(c(cc3O2)Cl)Cl,-3.37,-2.54
+"2,3-diacetoxypropyl acetate",CC(=O)OCC(COC(=O)C)OC(=O)C,-8.84,-12.333
+hexane,CCCCCC,2.48,2.851
+"1,1,1,2,2-pentachloroethane",C(C(Cl)(Cl)Cl)(Cl)Cl,-1.23,0.059
+quinoline,c1ccc2c(c1)cccn2,-5.72,-4.989
+butyl acetate,CCCCOC(=O)C,-2.64,-3.406
+"1,2,3,4,7,8-hexachlorodibenzo-p-dioxin",c1c2c(cc(c1Cl)Cl)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2,-3.71,-1.878
+4-methylpentan-2-one,CC(C)CC(=O)C,-3.05,-3.116
+pentyl acetate,CCCCCOC(=O)C,-2.51,-2.565
+1-iodopropane,CCCI,-0.53,-0.443
+"1,1,1-trifluoropropan-2-ol",C[C@@H](C(F)(F)F)O,-4.16,-3.518
+diethyl (2R)-2-dimethoxyphosphinothioylsulfanylbutanedioate,CCOC(=O)C[C@H](C(=O)OCC)SP(=S)(OC)OC,-8.15,-11.194
+1-propoxypropane,CCCOCCC,-1.16,-0.004
+nonan-5-one,CCCCC(=O)CCCC,-2.64,-2.364
+isobutyl acetate,CC(C)COC(=O)C,-2.36,-2.896
+"1,2-dinitroxyethane",C(CO[N+](=O)[O-])O[N+](=O)[O-],-5.73,-6.227
+phthalimide,c1ccc2c(c1)C(=O)NC2=O,-9.61,-11.825
+cyclopentene,C1CC=CC1,0.56,1.23
+methyl octanoate,CCCCCCCC(=O)OC,-2.04,-3.035

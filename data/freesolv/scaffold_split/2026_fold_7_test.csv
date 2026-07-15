@@ -1,0 +1,55 @@
+iupac,smiles,expt,calc
+ethyl pentanoate,CCCCC(=O)OCC,-2.49,-3.11
+indane,c1ccc2c(c1)CCC2,-1.46,-1.752
+"2,4-dimethylpentan-3-one",CC(C)C(=O)C(C)C,-2.74,-2.629
+"penta-1,4-diene",C=CCC=C,0.93,2.357
+N-ethylethanamine,CCNCC,-4.07,-2.986
+N-propylpropan-1-amine,CCCNCCC,-3.65,-2.233
+hexanamide,CCCCCC(=O)N,-9.31,-8.103
+isobutyl nitrate,CC(C)CO[N+](=O)[O-],-1.88,-1.835
+octan-2-one,CCCCCCC(=O)C,-2.88,-2.758
+1-bromooctane,CCCCCCCCBr,0.52,1.352
+chloromethane,CCl,-0.55,0.764
+2-isopropylsulfanylpropane,CC(C)SC(C)C,-1.21,0.14
+imidazole,c1cnc[nH]1,-9.63,-7.972
+1-propylsulfanylpropane,CCCSCCC,-1.28,0.64
+"2-chloro-2-(difluoromethoxy)-1,1,1-trifluoro-ethane",[C@@H](C(F)(F)F)(OC(F)F)Cl,0.1,-1.156
+4-methylmorpholine,CN1CCOCC1,-6.32,-5.774
+1-methylimidazole,Cn1ccnc1,-8.41,-6.282
+butanal,CCCC=O,-3.18,-3.044
+"1,1,2-trichloroethane",C(C(Cl)Cl)Cl,-1.99,-0.384
+ethoxyethane,CCOCC,-1.59,-0.617
+hexyl acetate,CCCCCCOC(=O)C,-2.26,-2.219
+bromoform,C(Br)(Br)Br,-2.13,-0.531
+butyric acid,CCCC(=O)O,-6.35,-9.434
+"methyl 2,2,2-trifluoroacetate",COC(=O)C(F)(F)F,-1.1,-1.353
+"3,3-dimethylbutan-2-one",CC(=O)C(C)(C)C,-3.11,-3.234
+methylcyclopentane,CC1CCCC1,1.59,1.785
+2-methyltetrahydrofuran,C[C@H]1CCCO1,-3.3,-1.984
+dichloromethane,C(Cl)Cl,-1.31,0.038
+sulfolane,C1CC[S+2](C1)([O-])[O-],-8.61,-9.624
+"1,2-dinitroxypropane",C[C@@H](CO[N+](=O)[O-])O[N+](=O)[O-],-4.95,-5.646
+prop-1-yne,CC#C,-0.48,0.065
+1-chlorobutane,CCCCCl,-0.16,0.993
+"2,5-dimethyltetrahydrofuran",C[C@H]1CC[C@@H](O1)C,-2.92,-1.787
+2-methylbut-2-ene,CC=C(C)C,1.31,2.272
+"1,2-dichloroethane",C(CCl)Cl,-1.79,-0.363
+ethylsulfanylethane,CCSCC,-1.46,0.299
+"1,1,2,2-tetrachloroethylene",C(=C(Cl)Cl)(Cl)Cl,0.1,1.328
+2-bromo-2-methyl-propane,CC(C)(C)Br,0.84,0.438
+"1,1,1,2-tetramethoxyethane",COCC(OC)(OC)OC,-5.73,-5.436
+cyclopentanol,C1CCC(C1)O,-5.49,-4.29
+octan-1-ol,CCCCCCCCO,-4.09,-2.69
+but-1-ene,CCC=C,1.38,2.367
+captan,C1C=CC[C@@H]2[C@@H]1C(=O)N(C2=O)SC(Cl)(Cl)Cl,-9.01,-8.718
+tetrahydrofuran,C1CCOC1,-3.47,-2.201
+pentylcyclopentane,CCCCCC1CCCC1,2.55,2.381
+"2,4-dimethylpentane",CC(C)CC(C)C,2.83,2.756
+but-2-enal,C/C=C/C=O,-4.22,-3.341
+morpholine,C1COCCN1,-7.17,-6.116
+methanethiol,CS,-1.2,-0.273
+propylcyclopentane,CCCC1CCCC1,2.13,2.102
+methyl propanoate,CCC(=O)OC,-2.93,-3.652
+cyclopentane,C1CCCC1,1.2,1.648
+4-methyl-1H-imidazole,Cc1c[nH]cn1,-10.27,-8.205
+1-butoxy-2-propanol,CCCCOC[C@H](C)O,-5.73,-3.891

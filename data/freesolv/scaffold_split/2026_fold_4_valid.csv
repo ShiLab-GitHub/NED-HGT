@@ -1,0 +1,69 @@
+iupac,smiles,expt,calc
+"1,1-dichloroethane",CC(Cl)Cl,-0.84,0.187
+2-chloro-2-methyl-propane,CC(C)(C)Cl,1.09,0.826
+ethyl acetate,CCOC(=O)C,-2.94,-3.745
+2-methylpentan-3-ol,CC[C@H](C(C)C)O,-3.88,-2.416
+ammonia,N,-4.29,-4.018
+"3-(dimethoxyphosphinothioylsulfanylmethyl)-1,2,3-benzotriazin-4-one",COP(=S)(OC)SCn1c(=O)c2ccccc2nn1,-10.03,-14.106
+prop-2-en-1-ol,C=CCO,-5.03,-3.286
+hept-1-ene,CCCCCC=C,1.66,2.761
+triethylphosphate,CCOP(=O)(OCC)OCC,-7.5,-10.251
+pent-1-yne,CCCC#C,0.01,0.47
+naphthalen-2-ol,c1ccc2cc(ccc2c1)O,-8.11,-7.849
+1-bromo-2-methyl-propane,CC(C)CBr,-0.03,0.756
+"2,6-dimethylnaphthalene",Cc1ccc2cc(ccc2c1)C,-2.63,-2.848
+naphthalene,c1ccc2ccccc2c1,-2.4,-3.213
+naphthalen-1-yl N-methylcarbamate,CNC(=O)Oc1cccc2c1cccc2,-9.45,-10.436
+"1,3-dimethylnaphthalene",Cc1cc(c2ccccc2c1)C,-2.47,-2.995
+"2,3-dimethylnaphthalene",Cc1cc2ccccc2cc1C,-2.78,-2.953
+chloro-fluoro-methane,C(F)Cl,-0.77,-0.171
+naphthalen-1-amine,c1ccc2c(c1)cccc2N,-7.28,-7.777
+"1,4-dimethylnaphthalene",Cc1ccc(c2c1cccc2)C,-2.82,-3.081
+1-ethylnaphthalene,CCc1cccc2c1cccc2,-2.4,-2.961
+naphthalen-1-ol,c1ccc2c(c1)cccc2O,-7.67,-7.137
+naproxen,C[C@@H](c1ccc2cc(ccc2c1)OC)C(=O)O,-10.21,-12.199
+hexanal,CCCCCC=O,-2.81,-2.86
+naphthalen-2-amine,c1ccc2cc(ccc2c1)N,-7.47,-8.003
+1-methylnaphthalene,Cc1cccc2c1cccc2,-2.44,-3.212
+"1,2-dimethylcyclohexane",C[C@@H]1CCCC[C@@H]1C,1.58,1.685
+heptane,CCCCCCC,2.67,2.925
+3-methylbutanoic acid,CC(C)CC(=O)O,-6.09,-8.844
+cyclohexane,C1CCCCC1,1.23,1.503
+cyclohexanamine,C1CCC(CC1)N,-4.59,-3.953
+methylcyclohexane,CC1CCCCC1,1.7,1.679
+methyl cyclohexanecarboxylate,COC(=O)C1CCCCC1,-3.3,-4.376
+"1,4-dimethylcyclohexane",CC1CCC(CC1)C,2.11,1.918
+cyclohexanol,C1CCC(CC1)O,-5.46,-4.178
+Amitriptyline,CN(C)CCC=C1c2ccccc2CCc3c1cccc3,-7.43,-7.349
+1-cyclohexylethanone,CC(=O)C1CCCCC1,-3.9,-4.003
+"(3R)-3,7-Dimethylocta-1,6-dien-3-yl acetate",CC(=CCC[C@](C)(C=C)OC(=O)C)C,-2.49,-2.964
+"1,3-bis-(nitrooxy)butane",C[C@@H](CCO[N+](=O)[O-])O[N+](=O)[O-],-4.29,-4.944
+2-isopropoxypropane,CC(C)OC(C)C,-0.53,-0.178
+"(1R,2S,5R)-2-isopropyl-5-methylcyclohexanol",C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C,-3.2,-3.35
+"N,N-dipropyl(propylsulfanyl)formamide",CCCN(CCC)C(=O)SCCC,-4.13,-4.569
+"N,N-diethylethanamine",CCN(CC)CC,-3.22,-1.955
+ethane,CC,1.83,2.465
+cyclohexanone,C1CCC(=O)CC1,-4.91,-4.18
+"(2S,5R)-2-isopropyl-5-methylcyclohexanone",C[C@@H]1CC[C@H](C(=O)C1)C(C)C,-2.53,-3.523
+"(2R,5R)-2-methyl-5-(1-methylethenyl)-cyclohexanone",C[C@@H]1CC[C@H](CC1=O)C(=C)C,-3.75,-3.344
+methyl pentanoate,CCCCC(=O)OC,-2.56,-3.492
+acetone,CC(=O)C,-3.8,-3.506
+ethyl pentanoate,CCCCC(=O)OCC,-2.49,-3.11
+ethoxyethane,CCOCC,-1.59,-0.617
+"methyl 2,2,2-trifluoroacetate",COC(=O)C(F)(F)F,-1.1,-1.353
+ethylsulfanylethane,CCSCC,-1.46,0.299
+"1,1,1,2-tetramethoxyethane",COCC(OC)(OC)OC,-5.73,-5.436
+methyl propanoate,CCC(=O)OC,-2.93,-3.652
+methyl butanoate,CCCC(=O)OC,-2.83,-3.552
+acetonitrile,CC#N,-3.88,-2.789
+"3,5,5-trimethylcyclohex-2-en-1-one",CC1=CC(=O)CC(C1)(C)C,-5.18,-4.088
+acetaldehyde,CC=O,-3.5,-3.372
+endosulfan alpha,C1[C@@H]2[C@H](COS(=O)O1)[C@@]3(C(=C([C@]2(C3(Cl)Cl)Cl)Cl)Cl)Cl,-4.23,-9.785
+6-isopropyl-3-methyl-1-cyclohex-2-enone,CC1=CC(=O)[C@@H](CC1)C(C)C,-4.51,-3.825
+1-iodobutane,CCCCI,-0.25,-0.223
+methyl cyclopropanecarboxylate,COC(=O)C1CC1,-4.1,-3.604
+n-pentane,CCCCC,2.3,2.673
+cyclopropane,C1CC1,0.75,2.485
+"2-chloro-1,1,1-trifluoro-ethane",C(C(F)(F)F)Cl,0.06,0.233
+"2,3,4-trimethylpentane",CC(C)C(C)C(C)C,2.56,2.674
+1-cyclopropylethanone,CC(=O)C1CC1,-4.61,-3.043

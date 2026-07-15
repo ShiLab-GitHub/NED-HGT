@@ -1,0 +1,56 @@
+iupac,smiles,expt,calc
+2-methylpentan-2-ol,CCCC(C)(C)O,-3.92,-2.779
+"N,N-dimethylformamide",CN(C)C=O,-7.81,-6.932
+naphthalen-2-ol,c1ccc2cc(ccc2c1)O,-8.11,-7.849
+hydrazine,NN,-9.3,-6.508
+5-Amino-4-chloro-2-phenylpyridazin-3(2H)-one,c1ccc(cc1)n2c(=O)c(c(cn2)N)Cl,-16.43,-16.039
+2-(nitrooxy)ethan-1-ol,C(CO[N+](=O)[O-])O,-8.18,-6.676
+"cyclohepta-1,3,5-triene",C1C=CC=CC=C1,-0.99,-0.098
+1-bromo-2-methyl-propane,CC(C)CBr,-0.03,0.756
+1-chloropropane,CCCCl,-0.33,0.973
+methyl acetate,CC(=O)OC,-3.13,-3.83
+butanenitrile,CCCC#N,-3.64,-2.287
+"1,1-dichloroethylene",C=C(Cl)Cl,0.25,1.108
+2-methylpropan-1-ol,CC(C)CO,-4.5,-3.13
+hexachloroethane,C(C(Cl)(Cl)Cl)(Cl)(Cl)Cl,-0.64,0.885
+propyl formate,CCCOC=O,-2.48,-3.699
+diethyl butanedioate,CCOC(=O)CCC(=O)OCC,-5.71,-8.683
+2-methoxypropane,CC(C)OC,-2.01,-0.657
+"2,6-dimethylnaphthalene",Cc1ccc2cc(ccc2c1)C,-2.63,-2.848
+butan-1-ol,CCCCO,-4.72,-3.232
+2-methoxy-2-methyl-propane,CC(C)(C)OC,-2.21,-0.691
+naphthalene,c1ccc2ccccc2c1,-2.4,-3.213
+naphthalen-1-yl N-methylcarbamate,CNC(=O)Oc1cccc2c1cccc2,-9.45,-10.436
+anthracene,c1ccc2cc3ccccc3cc2c1,-3.95,-5.187
+nonan-2-one,CCCCCCCC(=O)C,-2.49,-2.563
+trimethyl phosphate,COP(=O)(OC)OC,-8.7,-10.642
+"1,3-dimethylnaphthalene",Cc1cc(c2ccccc2c1)C,-2.47,-2.995
+"(2E)-3,7-dimethylocta-2,6-dien-1-ol",CC(=CCC/C(=C/CO)/C)C,-4.45,-2.518
+"2,3-dimethylnaphthalene",Cc1cc2ccccc2cc1C,-2.78,-2.953
+undecan-2-one,CCCCCCCCCC(=O)C,-2.15,-2.201
+chloro-fluoro-methane,C(F)Cl,-0.77,-0.171
+"3,3,3-trimethoxypropanenitrile",COC(CC#N)(OC)OC,-6.4,-5.859
+2-chlorobutane,CC[C@H](C)Cl,0.0,0.927
+naphthalen-1-amine,c1ccc2c(c1)cccc2N,-7.28,-7.777
+chloroethylene,C=CCl,-0.59,1.162
+"1,4-dimethylnaphthalene",Cc1ccc(c2c1cccc2)C,-2.82,-3.081
+methyldisulfanylmethane,CSSC,-1.83,-0.093
+"1,2-dibromoethane",C(CBr)Br,-2.33,-1.275
+1-ethylnaphthalene,CCc1cccc2c1cccc2,-2.4,-2.961
+profluralin,CCC[N@@](CC1CC1)c2c(cc(cc2[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-],-2.45,-1.956
+propanenitrile,CCC#N,-3.84,-2.491
+naphthalen-1-ol,c1ccc2c(c1)cccc2O,-7.67,-7.137
+diethoxy-(ethylsulfanylmethylsulfanyl)-thioxo-$l^{5}-phosphane,CCOP(=S)(OCC)SCSCC,-4.37,-6.427
+naproxen,C[C@@H](c1ccc2cc(ccc2c1)OC)C(=O)O,-10.21,-12.199
+1-chlorohexane,CCCCCCCl,0.0,1.261
+hexanal,CCCCCC=O,-2.81,-2.86
+chloroethane,CCCl,-0.63,0.775
+naphthalen-2-amine,c1ccc2cc(ccc2c1)N,-7.47,-8.003
+1-bromo-pentane,CCCCCBr,-0.1,0.824
+pentan-1-ol,CCCCCO,-4.57,-3.054
+1-acetoxyethyl acetate,CC(OC(=O)C)OC(=O)C,-4.97,-8.006
+isopentane,CCC(C)C,2.38,2.59
+hexan-2-one,CCCCC(=O)C,-3.28,-3.006
+pirimor,Cc1c(nc(nc1OC(=O)N(C)C)N(C)C)C,-9.41,-13.87
+1-methylnaphthalene,Cc1cccc2c1cccc2,-2.44,-3.212
+diazinon,CCOP(=S)(OCC)Oc1cc(nc(n1)C(C)C)C,-6.48,-10.753

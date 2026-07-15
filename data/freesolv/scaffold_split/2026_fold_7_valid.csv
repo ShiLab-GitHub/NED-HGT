@@ -1,0 +1,59 @@
+iupac,smiles,expt,calc
+3-methylbut-1-ene,CC(C)C=C,1.83,2.452
+propane,CCC,2.0,2.495
+"1,2-diethoxyethane",CCOCCOCC,-3.54,-3.42
+methylsulfinylmethane,CS(=O)C,-9.28,-8.243
+2-methylpropan-2-ol,CC(C)(C)O,-4.47,-3.288
+ammonia,N,-4.29,-4.018
+"1,1-difluoroethane",CC(F)F,-0.11,0.226
+decane,CCCCCCCCCC,3.16,3.335
+1-nitrobutane,CCCC[N+](=O)[O-],-3.09,-1.449
+1-nitropropane,CCC[N+](=O)[O-],-3.34,-1.632
+acetic acid,CC(=O)O,-6.69,-7.281
+"N,N-dimethylformamide",CN(C)C=O,-7.81,-6.932
+1-bromo-2-methyl-propane,CC(C)CBr,-0.03,0.756
+1-chloropropane,CCCCl,-0.33,0.973
+butan-1-ol,CCCCO,-4.72,-3.232
+undecan-2-one,CCCCCCCCCC(=O)C,-2.15,-2.201
+diethoxy-(ethylsulfanylmethylsulfanyl)-thioxo-$l^{5}-phosphane,CCOP(=S)(OCC)SCSCC,-4.37,-6.427
+hexanal,CCCCCC=O,-2.81,-2.86
+pirimor,Cc1c(nc(nc1OC(=O)N(C)C)N(C)C)C,-9.41,-13.87
+diazinon,CCOP(=S)(OCC)Oc1cc(nc(n1)C(C)C)C,-6.48,-10.753
+N-methylmethanamine,CNC,-4.29,-2.991
+formaldehyde,C=O,-2.75,-3.155
+isohexane,CCCC(C)C,2.51,2.808
+"(1R)-2,2,2-trichloro-1-dimethoxyphosphoryl-ethanol",COP(=O)([C@H](C(Cl)(Cl)Cl)O)OC,-12.74,-13.424
+1-bromo-2-chloro-ethane,C(CBr)Cl,-1.95,-0.8
+iodoethane,CCI,-0.74,-0.609
+2-bromopropane,CC(C)Br,-0.48,0.448
+"1,1,1,2,2-pentachloroethane",C(C(Cl)(Cl)Cl)(Cl)Cl,-1.23,0.059
+2-acetoxyethyl acetate,CC(=O)OCCOC(=O)C,-6.34,-8.292
+2-propoxyethanol,CCCOCCO,-6.4,-3.94
+pentyl propanoate,CCCCCOC(=O)CC,-2.11,-2.176
+nonan-1-ol,CCCCCCCCCO,-3.88,-2.564
+Amitriptyline,CN(C)CCC=C1c2ccccc2CCc3c1cccc3,-7.43,-7.349
+carbon tetrachloride,C(Cl)(Cl)(Cl)Cl,0.08,1.185
+propionamide,CCC(=O)N,-9.4,-8.31
+octafluorocyclobutane,C1(C(C(C1(F)F)(F)F)(F)F)(F)F,3.43,3.077
+"1,4-dichlorobutane",C(CCCl)CCl,-2.32,-0.404
+hexan-1-amine,CCCCCCN,-3.95,-2.772
+5-bromouracil,c1c(c(=O)[nH]c(=O)[nH]1)Br,-18.17,-17.298
+bromacil,CC[C@H](C)n1c(=O)c(c([nH]c1=O)C)Br,-9.73,-14.496
+heptan-2-one,CCCCCC(=O)C,-3.04,-2.945
+6-chlorouracil,c1c(=O)[nH]c(=O)[nH]c1Cl,-15.83,-15.128
+hexan-1-ol,CCCCCCO,-4.4,-3.0
+5-iodouracil,c1c(c(=O)[nH]c(=O)[nH]1)I,-18.72,-17.742
+3-methyl-1H-indole,Cc1c[nH]c2c1cccc2,-5.88,-8.161
+methane,C,2.0,2.446
+5-fluorouracil,c1c(c(=O)[nH]c(=O)[nH]1)F,-16.92,-16.371
+5-trifluoromethyluracil,c1c(c(=O)[nH]c(=O)[nH]1)C(F)(F)F,-15.46,-17.349
+terbacil,Cc1c(c(=O)n(c(=O)[nH]1)C(C)(C)C)Cl,-11.14,-13.769
+5-chlorouracil,c1c(c(=O)[nH]c(=O)[nH]1)Cl,-17.74,-16.612
+fluoromethane,CF,-0.22,0.881
+oct-1-ene,CCCCCCC=C,1.92,2.895
+butyl nitrate,CCCCO[N+](=O)[O-],-2.09,-1.938
+4-methylpentan-2-ol,C[C@H](CC(C)C)O,-3.73,-2.907
+ethyl butanoate,CCCC(=O)OCC,-2.49,-3.381
+"2,3,4-trimethylpentane",CC(C)C(C)C(C)C,2.56,2.674
+acetamide,CC(=O)N,-9.71,-8.82
+1-bromopropane,CCCBr,-0.56,0.579

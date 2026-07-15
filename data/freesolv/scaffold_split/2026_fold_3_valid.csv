@@ -1,0 +1,59 @@
+iupac,smiles,expt,calc
+3-methylbut-1-ene,CC(C)C=C,1.83,2.452
+N-methylacetamide,CC(=O)NC,-10.0,-8.276
+caffeine,Cn1cnc2c1c(=O)n(c(=O)n2C)C,-12.64,-17.621
+ethyl acetate,CCOC(=O)C,-2.94,-3.745
+heptan-1-amine,CCCCCCCN,-3.79,-2.554
+propyl butanoate,CCCC(=O)OCCC,-2.28,-2.754
+propyl acetate,CCCOC(=O)C,-2.79,-3.486
+3-methylheptane,CCCC[C@@H](C)CC,2.97,3.03
+ammonia,N,-4.29,-4.018
+"3-(dimethoxyphosphinothioylsulfanylmethyl)-1,2,3-benzotriazin-4-one",COP(=S)(OC)SCn1c(=O)c2ccccc2nn1,-10.03,-14.106
+ethylene,C=C,1.28,2.328
+pentanal,CCCCC=O,-3.03,-2.927
+"2,3-diacetoxypropyl acetate",CC(=O)OCC(COC(=O)C)OC(=O)C,-8.84,-12.333
+pentyl acetate,CCCCCOC(=O)C,-2.51,-2.565
+1-iodopropane,CCCI,-0.53,-0.443
+"1,1,1-trifluoropropan-2-ol",C[C@@H](C(F)(F)F)O,-4.16,-3.518
+ethanamine,CCN,-4.5,-3.156
+"(E)-1,2-dichloroethylene",C(=C/Cl)\Cl,-0.78,1.024
+trimethoxymethane,COC(OC)OC,-4.42,-4.625
+1-methylpyrrole,Cn1cccc1,-2.89,-2.374
+pyrrole,c1cc[nH]c1,-4.78,-4.014
+propan-1-amine,CCCN,-4.39,-3.053
+butadiene,C=CC=C,0.56,1.955
+"2-bromo-1,1,1,2-tetrafluoro-ethane",[C@@H](C(F)(F)F)(F)Br,0.5,0.234
+"N,N-diethylethanamine",CCN(CC)CC,-3.22,-1.955
+prop-1-ene,CC=C,1.32,2.328
+3-methylbutan-2-one,CC(C)C(=O)C,-3.24,-3.078
+propionic acid,CCC(=O)O,-6.46,-9.088
+isopropyl formate,CC(C)OC=O,-2.02,-3.591
+"2,4-dimethylpentan-3-one",CC(C)C(=O)C(C)C,-2.74,-2.629
+isobutyl nitrate,CC(C)CO[N+](=O)[O-],-1.88,-1.835
+octan-2-one,CCCCCCC(=O)C,-2.88,-2.758
+2-isopropylsulfanylpropane,CC(C)SC(C)C,-1.21,0.14
+1-propylsulfanylpropane,CCCSCCC,-1.28,0.64
+"methyl 2,2,2-trifluoroacetate",COC(=O)C(F)(F)F,-1.1,-1.353
+"3,3-dimethylbutan-2-one",CC(=O)C(C)(C)C,-3.11,-3.234
+dichloromethane,C(Cl)Cl,-1.31,0.038
+2-methylbut-2-ene,CC=C(C)C,1.31,2.272
+nonane,CCCCCCCCC,3.13,3.221
+azetidine,C1CNC1,-5.56,-3.861
+hexanoic acid,CCCCCC(=O)O,-6.21,-7.878
+"1,1,2-trichloroethylene",C(=C(Cl)Cl)Cl,-0.44,0.818
+"1,1,2-trichloro-1,2,2-trifluoro-ethane",C(C(F)(Cl)Cl)(F)(F)Cl,1.77,1.691
+1-bromobutane,CCCCBr,-0.4,0.705
+acetaldehyde,CC=O,-3.5,-3.372
+2-methylhexane,CCCCC(C)C,2.93,2.894
+1-chloroheptane,CCCCCCCCl,0.29,1.467
+methanesulfonyl chloride,CS(=O)(=O)Cl,-4.87,-6.219
+cyclohexene,C1CCC=CC1,0.14,1.175
+1-methylcyclohexene,CC1=CCCCC1,0.67,1.338
+"methyl 2,2-dimethylpropanoate",CC(C)(C)C(=O)OC,-2.4,-3.304
+ethyl butanoate,CCCC(=O)OCC,-2.49,-3.381
+"2,3,4-trimethylpentane",CC(C)C(C)C(C)C,2.56,2.674
+butane-1-thiol,CCCCS,-0.99,-0.174
+"(1S,5R)-2-methyl-5-(1-methylethenyl)-2-cyclohexen-1-ol",CC1=CC[C@H](C[C@@H]1O)C(=C)C,-4.44,-3.257
+glycerol,C(C(CO)O)O,-13.43,-10.14
+4-(1-Methylethenyl)-1-cyclohexene-1-carboxaldehyde,CC(=C)[C@H]1CCC(=CC1)C=O,-4.09,-3.591
+1-chloro-pentane,CCCCCCl,-0.1,1.084

@@ -1,0 +1,55 @@
+iupac,smiles,expt,calc
+"1,2-dimethylcyclohexane",C[C@@H]1CCCC[C@@H]1C,1.58,1.685
+2-acetoxyethyl acetate,CC(=O)OCCOC(=O)C,-6.34,-8.292
+non-1-ene,CCCCCCCC=C,2.06,2.995
+"(2R,3R,4R,5R)-Hexan-1,2,3,4,5,6-hexol",C([C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O,-23.62,-18.162
+simazine,CCNc1nc(nc(n1)Cl)NCC,-10.22,-10.914
+ethanamine,CCN,-4.5,-3.156
+heptane,CCCCCCC,2.67,2.925
+isobutane,CC(C)C,2.3,2.535
+3-methylbutanoic acid,CC(C)CC(=O)O,-6.09,-8.844
+"(E)-1,2-dichloroethylene",C(=C/Cl)\Cl,-0.78,1.024
+[(2S)-butan-2-yl] nitrate,CC[C@H](C)O[N+](=O)[O-],-1.82,-1.864
+quinone,C1=CC(=O)C=CC1=O,-6.5,-6.96
+"2-N-ethyl-6-(methylsulfanyl)-4-N-(propan-2-yl)-1,3,5-triazine-2,4-diamine",CCNc1nc(nc(n1)SC)NC(C)C,-7.65,-10.552
+pentanoic acid,CCCCC(=O)O,-6.16,-9.053
+2-propoxyethanol,CCCOCCO,-6.4,-3.94
+isobutyl 2-methylpropanoate,CC(C)COC(=O)C(C)C,-1.69,-2.58
+methyl methanesulfonate,COS(=O)(=O)C,-4.87,-8.824
+trimethoxymethane,COC(OC)OC,-4.42,-4.625
+cyclohexane,C1CCCCC1,1.23,1.503
+cyclohexanamine,C1CCC(CC1)N,-4.59,-3.953
+methylcyclohexane,CC1CCCCC1,1.7,1.679
+pentyl propanoate,CCCCCOC(=O)CC,-2.11,-2.176
+1-methylpyrrole,Cn1cccc1,-2.89,-2.374
+pentan-3-ol,CCC(CC)O,-4.35,-2.786
+pent-2-ene,CC/C=C\C,1.31,2.374
+hept-1-yne,CCCCCC#C,0.6,0.639
+diphenyl ether,c1ccc(cc1)Oc2ccccc2,-2.87,-2.81
+bromomethane,CBr,-0.82,0.46
+methanol,CO,-5.1,-3.491
+nonan-1-ol,CCCCCCCCCO,-3.88,-2.564
+methyl cyclohexanecarboxylate,COC(=O)C1CCCCC1,-3.3,-4.376
+pyrrole,c1cc[nH]c1,-4.78,-4.014
+"1,4-dimethylcyclohexane",CC1CCC(CC1)C,2.11,1.918
+cyclohexanol,C1CCC(CC1)O,-5.46,-4.178
+Amitriptyline,CN(C)CCC=C1c2ccccc2CCc3c1cccc3,-7.43,-7.349
+carbon tetrachloride,C(Cl)(Cl)(Cl)Cl,0.08,1.185
+ethanethiol,CCS,-1.14,-0.395
+pentan-2-one,CCCC(=O)C,-3.52,-3.166
+propionamide,CCC(=O)N,-9.4,-8.31
+1-cyclohexylethanone,CC(=O)C1CCCCC1,-3.9,-4.003
+"(3R)-3,7-Dimethylocta-1,6-dien-3-yl acetate",CC(=CCC[C@](C)(C=C)OC(=O)C)C,-2.49,-2.964
+"1,3-bis-(nitrooxy)butane",C[C@@H](CCO[N+](=O)[O-])O[N+](=O)[O-],-4.29,-4.944
+2-isopropoxypropane,CC(C)OC(C)C,-0.53,-0.178
+"2-bromo-2-chloro-1,1,1-trifluoro-ethane",[C@@H](C(F)(F)F)(Cl)Br,-0.11,0.206
+1-butoxybutane,CCCCOCCCC,-0.83,0.139
+octafluorocyclobutane,C1(C(C(C1(F)F)(F)F)(F)F)(F)F,3.43,3.077
+"1,1-diethoxyethane",CCOC(C)OCC,-3.28,-1.795
+"1,1,1,2-tetrachloroethane",C(C(Cl)(Cl)Cl)Cl,-1.43,-0.091
+"1,4-dichlorobutane",C(CCCl)CCl,-2.32,-0.404
+hexan-1-amine,CCCCCCN,-3.95,-2.772
+hept-2-ene,CCCC/C=C/C,1.68,2.78
+"(1R,2S,5R)-2-isopropyl-5-methylcyclohexanol",C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C,-3.2,-3.35
+terbutryn,CCNc1nc(nc(n1)SC)NC(C)(C)C,-6.68,-9.271
+propan-1-amine,CCCN,-4.39,-3.053
