@@ -1,0 +1,40 @@
+{
+  "data": {
+    "path": "data/lipo",
+    "task": "regression",
+    "target_names": [
+      "exp"
+    ],
+    "batch_size": 64
+  },
+  "train": {
+    "data_name": "lipo_random",
+    "loss_fn": "rmse",
+    "metric_fn": "rmse",
+    "warmup": 2,
+    "init_lr": 0.0001,
+    "max_lr": 0.001,
+    "final_lr": 1e-05,
+    "epochs": 100,
+    "num_fold": 10,
+    "save_path": "./ckpt_new/lipo_random",
+    "device": "cuda:0"
+  },
+  "model": {
+    "atom_dim": 42,
+    "bond_dim": 15,
+    "pharm_dim": 14,
+    "reac_dim": 1,
+    "hid_dim": 300,
+    "depth": 3,
+    "act": "ReLU",
+    "num_task": 1
+  },
+  "seed": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ]
+}
