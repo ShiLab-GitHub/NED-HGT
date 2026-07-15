@@ -64,7 +64,7 @@ The configuration files use `seed` field to specify data split seeds (default: `
 The training seed is hardcoded in the training scripts (`train_seed = 400`). To change the training seed, modify the corresponding line in:
 - `train.py`
 
-Available training seeds: `0`, `100`, `200`, `300`, `400`
+Values `0`, `100`, `200`, `300`, `400` are merely examples — any integer seed you want is acceptable.
 
 ## Data Preparation
 
