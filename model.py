@@ -12,6 +12,8 @@ from utils import get_func
 # dgl graph utils
 def reverse_edge(tensor):
     n = tensor.size(0)
+    if n == 0:
+        return tensor  
     assert n%2 ==0
     delta = torch.ones(n).type(torch.long)
     delta[torch.arange(1,n,2)] = -1
@@ -38,7 +40,7 @@ def attention(query, key, value, mask=None, dropout=None):
     if mask is not None:
         scores = scores.masked_fill(mask, -1e9)
     p_attn = F.softmax(scores, dim = -1)
-    # p_attn = F.softmax(scores, dim = -1).masked_fill(mask, 0)  # 不影响
+    # p_attn = F.softmax(scores, dim = -1).masked_fill(mask, 0)  
     if dropout is not None:
         p_attn = dropout(p_attn)
     return torch.matmul(p_attn, value), p_attn
@@ -210,9 +212,9 @@ class MVMP(nn.Module):
                                  partial(self.update_node,field=f'f_junc_{suffix}',layer=self.node_last_layer['junc'])) for e in self.hetero_etypes},
                                  cross_reducer='sum')
 
-class PharmHGT(nn.Module):
+class NedHGT(nn.Module):
     def __init__(self,args):
-        super(PharmHGT,self).__init__()
+        super(NedHGT,self).__init__()
         hid_dim = args['hid_dim']
         self.act = get_func(args['act'])
         self.depth = args['depth']
@@ -282,9 +284,8 @@ class PharmHGT(nn.Module):
         embed_gf = self.conv1(embed_gf.unsqueeze(1))
         embed_gf = self.pool1(embed_gf)
         embed_gf = self.pool2(self.conv2(embed_gf))
-        embed_gf = self.conv3(embed_gf).squeeze()
+        embed_gf = self.conv3(embed_gf).squeeze(1)
         embed = torch.cat([embed_f,embed_aug,embed_gf],1)
         out = self.out(embed)
         
         return out
-        
