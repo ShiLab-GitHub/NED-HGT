@@ -43,14 +43,14 @@ For Lipophilicity:
 python train.py configs_new/scaffold/lipo_scaffold.json
 ```
 
-For AqSolDB (subset 1):
+For AqSolDB:
 ```bash
-python train.py configs_new/scaffold/AqSolDB_1_scaffold.json
+python train.py configs_new/scaffold/AqSolDB_scaffold.json
 ```
 
-For CASR-1 (subset 1):
+For CASR-1:
 ```bash
-python train.py configs_new/scaffold/casr-1_1_scaffold.json
+python train.py configs_new/scaffold/casr-1_scaffold.json
 ```
 
 ## Configuration
