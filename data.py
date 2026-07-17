@@ -56,7 +56,7 @@ def bond_features(bond: Chem.rdchem.Bond):
 
     return fbond
 
-def pharm_property_types_feats(mol,factory=factory): 
+def ned_property_types_feats(mol,factory=factory): 
     types = [i.split('.')[1] for i in factory.GetFeatureDefs().keys()]
     feats = [i.GetType() for i in factory.GetFeaturesForMol(mol)]
     result = [0] * len(types)
@@ -113,21 +113,21 @@ def GetFragmentFeats(mol):
     frags_idx_lst = Chem.GetMolFrags(tmp)
     result_ap = {}
     result_p = {}
-    pharm_id = 0
+    ned_id = 0
     for frag_idx in frags_idx_lst:
         for atom_id in frag_idx:
-            result_ap[atom_id] = pharm_id
+            result_ap[atom_id] = ned_id
         try:
-            mol_pharm = Chem.MolFromSmiles(Chem.MolFragmentToSmiles(mol, frag_idx))
-            emb_0 = maccskeys_emb(mol_pharm)
-            emb_1 = pharm_property_types_feats(mol_pharm)
+            mol_ned = Chem.MolFromSmiles(Chem.MolFragmentToSmiles(mol, frag_idx))
+            emb_0 = maccskeys_emb(mol_ned)
+            emb_1 = ned_property_types_feats(mol_ned)
         except Exception:
             emb_0 = [0 for i in range(167)]
             emb_1 = [0 for i in range(27)]
             
-        result_p[pharm_id] = emb_0 + emb_1
+        result_p[ned_id] = emb_0 + emb_1
 
-        pharm_id += 1
+        ned_id += 1
     return result_ap, result_p
 
 ELEMENTS = [35, 6, 7, 8, 9, 15, 16, 17, 53]
@@ -225,17 +225,17 @@ def Mol2HeteroGraph(mol):
     dim_atom = len(f_atom[0])
 
     # Bond Node feature
-    f_pharm = []
+    f_ned = []
     for bond in bonds:
-        f_pharm.append(bond_features(bond))
-    g.nodes['p'].data['f'] = torch.FloatTensor(f_pharm)
-    dim_pharm = len(f_pharm[0])
+        f_ned.append(bond_features(bond))
+    g.nodes['p'].data['f'] = torch.FloatTensor(f_ned)
+    dim_ned = len(f_ned[0])
     
     dim_atom_padding = g.nodes['a'].data['f'].size()[0]
-    dim_pharm_padding = g.nodes['p'].data['f'].size()[0]
+    dim_ned_padding = g.nodes['p'].data['f'].size()[0]
 
-    g.nodes['a'].data['f_junc'] = torch.cat([g.nodes['a'].data['f'], torch.zeros(dim_atom_padding, dim_pharm)], 1)
-    g.nodes['p'].data['f_junc'] = torch.cat([torch.zeros(dim_pharm_padding, dim_atom), g.nodes['p'].data['f']], 1)
+    g.nodes['a'].data['f_junc'] = torch.cat([g.nodes['a'].data['f'], torch.zeros(dim_atom_padding, dim_ned)], 1)
+    g.nodes['p'].data['f_junc'] = torch.cat([torch.zeros(dim_ned_padding, dim_atom), g.nodes['p'].data['f']], 1)
     
     
     # features of edges
@@ -273,13 +273,13 @@ def Mol2HeteroGraph(mol):
         x3,y3,z3 = p3
         x4,y4,z4 = p4
         
-        # 角度
+        # angle
         array1 = (x2 - x1,y2 - y1,z2 - z1)
         array2 = (x4 - x3,y4 - y3,z4 - z3)
         
         f_reac.append([calcAngle(array1,array2)])
         
-        # 向量
+        # vector
         # px1, px2 = (x1+x2)/2,(y1+y2)/2
         # px3, px4 = (x3+x4)/2,(y3+y4)/2
         # f_reac.append([px3-px1,px2-px4])
