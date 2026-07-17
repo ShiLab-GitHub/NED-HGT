@@ -23,7 +23,7 @@
   "model": {
     "atom_dim": 42,
     "bond_dim": 15,
-    "pharm_dim": 14,
+    "ned_dim": 14,
     "reac_dim": 1,
     "hid_dim": 300,
     "depth": 3,
