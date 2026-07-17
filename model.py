@@ -112,11 +112,11 @@ class Node_GRU(nn.Module):
         self.suffix = suffix
         device = bg.device
         
-        p_pharmj = self.split_batch(bg,'p',f'f_{suffix}',device)
-        a_pharmj = self.split_batch(bg,'a',f'f_{suffix}',device)
+        p_nedj = self.split_batch(bg,'p',f'f_{suffix}',device)
+        a_nedj = self.split_batch(bg,'a',f'f_{suffix}',device)
 
-        mask = (a_pharmj!=0).type(torch.float32).matmul((p_pharmj.transpose(-1,-2)!=0).type(torch.float32))==0
-        h = self.att_mix(a_pharmj, p_pharmj, p_pharmj,mask) + a_pharmj
+        mask = (a_nedj!=0).type(torch.float32).matmul((p_nedj.transpose(-1,-2)!=0).type(torch.float32))==0
+        h = self.att_mix(a_nedj, p_nedj, p_nedj,mask) + a_nedj
 
         hidden = h.max(1)[0].unsqueeze(0).repeat(self.direction,1,1)
         h, hidden = self.gru(h, hidden)
@@ -231,11 +231,11 @@ class NedHGT(nn.Module):
         # atom view
         self.w_atom = nn.Linear(args['atom_dim'],hid_dim)
         self.w_bond = nn.Linear(args['bond_dim'],hid_dim)
-        # pharm view
-        self.w_pharm = nn.Linear(args['pharm_dim'],hid_dim)
+        # ned view
+        self.w_ned = nn.Linear(args['ned_dim'],hid_dim)
         self.w_reac = nn.Linear(args['reac_dim'],hid_dim)
         # junction view
-        self.w_junc = nn.Linear(args['atom_dim'] + args['pharm_dim'],hid_dim)
+        self.w_junc = nn.Linear(args['atom_dim'] + args['ned_dim'],hid_dim)
 
         ## define the view during massage passing
         self.mp = MVMP(msg_func=add_attn,hid_dim=hid_dim,depth=self.depth,view='a',suffix='h',act=self.act)
@@ -265,7 +265,7 @@ class NedHGT(nn.Module):
     def init_feature(self,bg):
         bg.nodes['a'].data['f'] = self.act(self.w_atom(bg.nodes['a'].data['f']))
         bg.edges[('a','b','a')].data['x'] = self.act(self.w_bond(bg.edges[('a','b','a')].data['x']))
-        bg.nodes['p'].data['f'] = self.act(self.w_pharm(bg.nodes['p'].data['f']))
+        bg.nodes['p'].data['f'] = self.act(self.w_ned(bg.nodes['p'].data['f']))
         bg.edges[('p','r','p')].data['x'] = self.act(self.w_reac(bg.edges[('p','r','p')].data['x']))
         bg.nodes['a'].data['f_junc'] = self.act(self.w_junc(bg.nodes['a'].data['f_junc']))
         bg.nodes['p'].data['f_junc'] = self.act(self.w_junc(bg.nodes['p'].data['f_junc']))
